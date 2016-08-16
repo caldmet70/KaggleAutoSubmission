@@ -6,7 +6,9 @@
 
 ## Requirements
 - requests
-- beautifulsoup4
+- (sudo pip install requests) or (sudo pip3 install requests)
+- beautifulsoup4 
+- (sudo pip install beautifulsoup4) or (sudo pip3 install beautifulsoup4)
 
 # Use-case
 
